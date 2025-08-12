@@ -1,8 +1,8 @@
-<h1 align="left">Hello!👋🏻</h1>
+<h1 align="left">Olá!👋🏻</h1>
 
 ###
 
-<p align="left">My name is Luiz. I'm a Front-End developer.</p>
+<p align="left">Meu nome é Luiz. Eu sou um desenvolvedor front-end.</p>
 
 ###
 
